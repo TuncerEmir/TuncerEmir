@@ -7,7 +7,7 @@
 
 </br>
 
-<p align="center"> 
+<p align="left"> 
   Visitor count<br>
   <a href="https://github.com/Hasan-Arslan2779/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Hasan-Arslan2779&style=for-the-badge">
