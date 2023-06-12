@@ -1,19 +1,16 @@
 ### Hi! 👋 My Name is Emir. I am a Front-End Developer
-
-#### Reach out to me
-
-[<img width="22" src="https://unpkg.com/simple-icons@v9/icons/twitter.svg" align="left" />][twitter]
-[<img width="22" src="https://unpkg.com/simple-icons@v9/icons/linkedin.svg" align="left" />][linkedin]
-
-</br>
 </br>
 <p align="left"><br>
   <a href="https://github.com/Hasan-Arslan2779/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Hasan-Arslan2779&style=for-the-badge">
 </a>
 </p>
-
 </br>
+
+#### Reach out to me
+
+[<img width="22" src="https://unpkg.com/simple-icons@v9/icons/twitter.svg" align="left" />][twitter]
+[<img width="22" src="https://unpkg.com/simple-icons@v9/icons/linkedin.svg" align="left" />][linkedin]
 
 #### Tech I Use
 
