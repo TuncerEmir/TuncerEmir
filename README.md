@@ -1,8 +1,8 @@
 ### Hi! 👋 My Name is Emir. I am a Front-End Developer
 </br>
 <p align="left"><br>
-  <a href="https://github.com/Hasan-Arslan2779/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Hasan-Arslan2779&style=for-the-badge">
+  <a href="https://github.com/TuncerEmir/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=TuncerEmir&style=for-the-badge">
 </a>
 </p>
 </br>
