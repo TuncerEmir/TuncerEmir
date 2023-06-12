@@ -2,7 +2,8 @@
 
 #### I am a web developer and I develop projects using the following technologies:
 
-*
+*<div class="github-profile-badge" data-user="TuncerEmir"></div>
+<script src="https://cdn.jsdelivr.net/gh/Rapsssito/github-profile-badge@latest/src/widget.min.js"></script>
 *
 *
 *
